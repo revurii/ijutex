@@ -1,5 +1,5 @@
 # ijutex
 GTNH Resourcepack
 - lots of relevant blocks done
-- controller faces / covers / misc overlays wip
+- machine / controller / cover / misc overlays wip
 - items wip
