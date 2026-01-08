@@ -3,6 +3,8 @@
 - machine / controller / cover / misc overlays wip
 - items wip
 
+* there are some batch files for copy-pasting textures in the materialicons folder
+
 ## Recommended
 - [UU-Tex](https://github.com/Jimbno/UU-Tex) - for filling in whatever is missing atm
 - [Modernity-GTNH](https://github.com/ABKQPO/Modernity-GTNH) - for modern vanilla (and other mod) textures
