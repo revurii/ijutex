@@ -3,7 +3,7 @@
 - machine / controller / cover / misc overlays wip
 - items wip
 
-* there are some batch files for copy-pasting textures in the materialicons folder
+note that there are some batch files for copy-pasting textures in the materialicons folder
 
 ## Recommended
 - [UU-Tex](https://github.com/Jimbno/UU-Tex) - for filling in whatever is missing atm
