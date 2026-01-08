@@ -1,5 +1,5 @@
 # ijutex - A Gregtech: New Horizons Resourcepack
-- lots of relevant blocks done
+- lots of blocks (hulls, casings, cables, pipes, frame boxes, etc.) done
 - machine / controller / cover / misc overlays wip
 - items wip
 
