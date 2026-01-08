@@ -4,6 +4,7 @@
 - items wip
 
 ## Recommended
+- [UU-Tex](https://github.com/Jimbno/UU-Tex) for filling in whatever is missing atm
 - [Modernity-GTNH](https://github.com/ABKQPO/Modernity-GTNH) for modern vanilla (and other mod) textures
 
 ## License
